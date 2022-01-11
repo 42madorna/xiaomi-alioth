@@ -5,4 +5,4 @@ _Please **do not attempt to flash this** into POCO F3, Redmi K40... etc_
 
 # Documentation
 - https://docs.ubports.com/en/latest/porting/build_and_boot/H9_gitlab_build.html
-- https://pad.ubports.com/p/treble-device-adaptation
+<!-- - https://pad.ubports.com/p/treble-device-adaptation -->
